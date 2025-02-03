@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="6b4c05648bd17e74" />
     <title>Бизнес-Сайт</title>
     <style>
         body {
